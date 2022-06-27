@@ -9,4 +9,4 @@ fazendo uma calculadora IMC.
 ## Para roda
 - `npm start`
 
-[Link para abrir o projeto](https://kalebes1.github.io/react_calc_imc/)
+[Link para abrir o projeto](https://mysterious-bayou-67438.herokuapp.com/)
